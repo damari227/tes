@@ -3,9 +3,7 @@ Rencana ku, membuat website TopupYuk, yaitu website platform Topup Item games, b
 - Terdapat fitur login -> 
     - halaman login
     - halaman regsiter
-    - Login proses
-    - Register proses
 - Terdapat halaman akun
 - Terdapat halaman transaksi
 - Terdapat pembelian pulsa
-- Terdapat pembelian tiket kereta
+- Terdapat pembelian tiket pesawat
